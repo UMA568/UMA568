@@ -6,13 +6,13 @@
 
 - 🔭 I’m currently working on **Python, SQL, Power BI**
 
-- 🌱 I’m currently learning **Math's & stats and ML**
+- 📄 Open for opportunity in Data Analyst **Data Analyst, Data engineering**
 
-- 📫 How to reach me [uma860489@gmail.com](uma860489@gmail.com)
+- 🌱 I’m currently learning **Math's & stats and ML**
 
 - 👨‍💻 Skilled in **Power BI, SQL, Python, pandas, Numpy, Excel, Matplotlib**
 
-- 📄 Open for opportunity in Data Analyst **Data Analyst, Data engineering**
+- 📫 How to reach me **uma860489@gmail.com**
 
 - ⚡ Fun fact **My favorite sport? wrestling with messy Datasets**
 
@@ -26,5 +26,7 @@
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=uma568&show_icons=true&locale=en" alt="uma568" /></p>
+
+
 
 
